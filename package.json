@@ -1,0 +1,10 @@
+{
+  "name": "flock-components",
+  "scripts": {
+    "start": "rnwy-studio"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "rnwy": "git@bitbucket.org:flock-se/rnwy.git"
+  }
+}

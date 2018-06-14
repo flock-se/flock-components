@@ -1,4 +1,5 @@
 {
-  "title": "Flock.",
-  "logoUrl": "../img/logo.png"
+  "logo": {
+    "$ref": "../../logo/stubs/default.json"
+  }
 }
