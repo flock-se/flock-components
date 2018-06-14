@@ -1,6 +1,9 @@
 {
   "base": "/src/**",
   "styles": [
-    "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    "https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
+  ],
+  "scripts": [
+    "https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"
   ]
 }
